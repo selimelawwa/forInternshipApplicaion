@@ -1,0 +1,65 @@
+.back{
+	background: #000639;
+}
+
+
+#title{
+	color: #FFFFFF;
+	font: Helvatica;
+	font-size: 24px;
+}
+#field{
+  color: #FFFFFF;
+	font: Helvatica;
+	font-size: 16px;
+}
+hr.hrstyle {
+	border: 1;
+  height: 1px;
+	background: #7AB55C;
+}
+
+.btn-purple{
+	background: #5c6ac4;
+	color: #FFFFFF;
+	font-size: 16px;
+	font: Helvatica;
+	font-weight: bold;
+}
+#unsubscribe{
+	align-content: center;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+
+
+#validationmessage{
+  color: #C23628;
+	font: Helvatica;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.customsize {
+  -ms-flex: 0 0 85.333333%;
+      flex: 0 0 85.333333%;
+  max-width: 85.333333%;
+}
+
+
+.my-select {
+background-image:
+    linear-gradient(45deg, transparent 50%, gray 50%),
+    linear-gradient(135deg, gray 50%, transparent 50%),
+    linear-gradient(to right, #ccc, #ccc);
+  background-position:
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px),
+    calc(100% - 2.5em) 0.5em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
+  background-repeat: no-repeat;
+}
